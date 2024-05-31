@@ -1,1 +1,3 @@
 Reverting the file form staging area.
+
+I'm going to commit this file directrly.
