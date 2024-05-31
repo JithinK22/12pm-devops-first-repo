@@ -1,3 +1,5 @@
 Hello everyone, Good afternoon.
 
 This is the first practical session in devops.
+
+commiting the file without staging it.
