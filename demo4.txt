@@ -1,0 +1,1 @@
+Remove the file from commit area and keep it in the local path.
